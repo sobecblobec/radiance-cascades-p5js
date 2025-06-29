@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 20px;
+  border: 2px solid gray;
+  border-radius: 4px;
+  display: grid;
+  grid-template-columns: [sliders] auto 20px [labels] auto;
+}
+
+#controls input {
+  grid-column: sliders;
+}
+
+#controls label {
+  grid-column: labels;
+}
