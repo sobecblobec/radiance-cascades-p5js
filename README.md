@@ -9,25 +9,25 @@ This repository provides a [class](https://github.com/sobecblobec/radiance-casca
 
 <table>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-basic.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-basic.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt="White light illuminating the screen showing lighting achieved with radiance cascades.">
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-basic/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/DWjVU-GLY?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-writing.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-writing.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Text written with a mouse that says "Wow this is cool!" to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-writing/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/ikL8EckfA?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-rgb.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-rgb.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Red, blue, and green light creating a rainbow to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-rgb/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/VeGf8Ubvz?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-springs.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-springs.png?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Two white rectangle lights illuminating a scene with many black circles blocking light to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-springs/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/26rw1em70?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
@@ -35,15 +35,15 @@ This repository provides a [class](https://github.com/sobecblobec/radiance-casca
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-plinko.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-plinko.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Colorful plinko balls are being dropped to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-plinko/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/QXk_7kzDw?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
 <a href="https://editor.p5js.org/codingtrain/sketches/wAe_oPVHo/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Original Sketch Without Radiance Cascades</a>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-cloth.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-cloth.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Cloth physics being simulate to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-toxiclibs-cloth/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/VQ823u1DQ?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
@@ -51,15 +51,15 @@ This repository provides a [class](https://github.com/sobecblobec/radiance-casca
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-attraction.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-attraction.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='An orange light is centered with black squares being attracted to the light to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-toxiclibs-attraction/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/bgdJRQZk4?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
 <a href="https://editor.p5js.org/natureofcode/sketches/tjIs8XaXP/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Original Sketch Without Radiance Cascades</a>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-noise-field.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-noise-field.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='A red perlin noise field is being generated to the light to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-noise-field/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/vt5oGyMqi?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
@@ -67,15 +67,15 @@ This repository provides a [class](https://github.com/sobecblobec/radiance-casca
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-angles-and-motion-sine-cosine.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-angles-and-motion-sine-cosine.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='A sin and cos graph being displayed to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-angles-and-motion-sine-cosine/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/Nc0JlodSn?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
 <a href="https://p5js.org/examples/angles-and-motion-sine-cosine/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Original Sketch Without Radiance Cascades</a>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-repetition-bezier.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-repetition-bezier.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Rainbow bezier curves are displayed to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-repetition-bezier/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/HdpyN3nqy?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
@@ -83,15 +83,15 @@ This repository provides a [class](https://github.com/sobecblobec/radiance-casca
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-repetition-recursive-tree.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-repetition-recursive-tree.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='Recursive tree displayed to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-repetition-recursive-tree/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/9Teeh7ph6?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
 <a href="https://p5js.org/examples/repetition-recursive-tree/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Original Sketch Without Radiance Cascades</a>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-games-snake.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="400">
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/gifs/radiance-cascades-games-snake.gif?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md" width="100%" alt='The game snake is being played to show global illumination achieved with radiance cascades.'>
 <br />
 <a href="https://pages.sobecblobec.com/examples/radiance-cascades-games-snake/index.html?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a> <a href="https://editor.p5js.org/sobecblobec/sketches/qj3qcSHox?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">(alternative link)</a>
 
@@ -115,11 +115,10 @@ rc = new RadianceCascades(graphic)
 ```
 
 Call the [draw()](https://github.com/sobecblobec/radiance-cascades-p5js/blob/main/radiance-cascades.js#L314?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/master/README.md) function on the instance of RadianceCascades that you created above. This function will return a [p5.Graphics](https://p5js.org/reference/p5/p5.Graphics/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/master/README.md) that can be displayed using [image()](https://p5js.org/reference/p5/image/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/master/README.md). A complete and simple practical example can be seen below.
-<table>
-<tr>
 
-
-<td>
+<div align="center" width="100%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-example-no-rc.png" width="50%">
+</div>
 
 ```js
 function setup() {
@@ -140,17 +139,17 @@ function draw() {
 }
 ```
 
-</td>
 
-<td>
 
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-example-no-rc.png" width="300" height="300">
 
-</td>
-</table>
 
-<table>
-<td>
+<div align="center" width="100%">
+<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-example-rc.png" width="50%">
+
+</div>
+<div align="center" width="100%">
+<a href="https://pages.sobecblobec.com/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a>
+</div>
 
 ```js
 let canvas;
@@ -180,13 +179,4 @@ function draw() {
 }
 ```
 
-</td>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/sobecblobec/radiance-cascades-p5js/main/media/images/radiance-cascades-example-rc.png" width="300" height="300">
-
-<a href="https://pages.sobecblobec.com/?ref=https://github.com/sobecblobec/radiance-cascades-p5js/edit/main/README.md">Live Demo</a>
-</td>
-</tr>
-</table>
 
